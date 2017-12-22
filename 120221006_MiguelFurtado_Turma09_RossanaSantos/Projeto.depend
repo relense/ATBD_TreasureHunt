@@ -1,0 +1,1117 @@
+# depslib dependency file v1.0
+1460898246 source:c:\users\miguel\desktop\projeto\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"stackEstatico.h"
+	"movimentos.h"
+
+1460848054 source:c:\users\miguel\desktop\projeto\filadinamica.c
+	<stdio.h>
+	<stdlib.h>
+	"filaDinamica.h"
+
+1460847934 c:\users\miguel\desktop\projeto\filadinamica.h
+	"localizacao.h"
+
+1460889429 c:\users\miguel\desktop\projeto\localizacao.h
+
+1460848185 source:c:\users\miguel\desktop\projeto\filaestatica.c
+	<stdlib.h>
+	<stdio.h>
+	"filaEstatica.h"
+
+1460847969 c:\users\miguel\desktop\projeto\filaestatica.h
+	"localizacao.h"
+
+1460889432 source:c:\users\miguel\desktop\projeto\localizacao.c
+	<stdio.h>
+	<stdlib.h>
+	"localizacao.h"
+
+1460847837 source:c:\users\miguel\desktop\projeto\stackdinamico.c
+	<stdio.h>
+	<stdlib.h>
+	"stackDinamico.h"
+
+1460847658 c:\users\miguel\desktop\projeto\stackdinamico.h
+	"localizacao.h"
+
+1460905203 source:c:\users\miguel\desktop\projeto\stackestatico.c
+	<stdlib.h>
+	<stdio.h>
+	"stackEstatico.h"
+
+1460897706 c:\users\miguel\desktop\projeto\stackestatico.h
+	"localizacao.h"
+	"movimentos.h"
+
+1460890624 source:c:\users\miguel\desktop\projeto\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	"jogo.h"
+
+1460889429 c:\users\miguel\desktop\projeto\jogo.h
+
+1460932978 source:c:\users\miguel\desktop\projeto\movimentos.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"movimentos.h"
+	"stackEstatico.h"
+
+1460897733 c:\users\miguel\desktop\projeto\movimentos.h
+
+1460896646 source:c:\users\miguel\desktop\projeto\algo.c
+
+1461335909 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\filadinamica.c
+	<stdio.h>
+	<stdlib.h>
+	"filaDinamica.h"
+
+1461184018 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\filadinamica.h
+	"elemento.h"
+
+1461348706 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\localizacao.h
+
+1461184018 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\filaestatica.c
+	<stdlib.h>
+	<stdio.h>
+	"filaEstatica.h"
+
+1461184004 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\filaestatica.h
+	"elemento.h"
+
+1460890624 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	"jogo.h"
+
+1460889429 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\jogo.h
+
+1461348831 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\localizacao.c
+	<stdio.h>
+	<stdlib.h>
+	"localizacao.h"
+
+1461786948 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"movimentos.h"
+	"gestorMovimento.h"
+	"tesouros.h"
+	"gestorTesouros.h"
+	"filaDinamica.h"
+	"filaEstatica.h"
+	"stackEstatico.h"
+	"stackDinamico.h"
+	"stackDinamicoTesouros.h"
+	"stackEstaticoTesouros.h"
+	"mapa.h"
+	"jogar.h"
+	"gestorLocalizacoes.h"
+
+1461189896 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\stackestatico.h
+	"elemento.h"
+
+1461168861 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\movimentos.h
+
+1461280975 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\stackdinamico.c
+	<stdio.h>
+	<stdlib.h>
+	"stackDinamico.h"
+
+1461189551 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\stackdinamico.h
+	"elemento.h"
+
+1461350684 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\stackestatico.c
+	<stdlib.h>
+	<stdio.h>
+	"stackEstatico.h"
+
+1461189395 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\movimentos.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"movimentos.h"
+
+1461335909 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\filadinamica.c
+	<stdio.h>
+	<stdlib.h>
+	"filaDinamica.h"
+
+1461184018 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\filadinamica.h
+	"elemento.h"
+
+1461348706 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\localizacao.h
+
+1461184018 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\filaestatica.c
+	<stdlib.h>
+	<stdio.h>
+	"filaEstatica.h"
+
+1461184004 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\filaestatica.h
+	"elemento.h"
+
+1461348831 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\localizacao.c
+	<stdio.h>
+	<stdlib.h>
+	"localizacao.h"
+
+1461870753 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"movimentos.h"
+	"gestorMovimento.h"
+	"tesouros.h"
+	"gestorTesouros.h"
+	"filaDinamica.h"
+	"filaEstatica.h"
+	"stackEstatico.h"
+	"stackDinamico.h"
+	"stackDinamicoTesouros.h"
+	"stackEstaticoTesouros.h"
+	"mapa.h"
+	"jogar.h"
+	"gestorLocalizacoes.h"
+
+1461189896 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\stackestatico.h
+	"elemento.h"
+
+1461168861 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\movimentos.h
+
+1461168748 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\elemento.h
+	"movimentos.h"
+
+1461870653 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\gestormovimento.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"movimentos.h"
+	"stackEstatico.h"
+	"gestorMovimento.h"
+	"filaEstatica.h"
+	"stackDinamico.h"
+	"filaDinamica.h"
+
+1461258039 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\gestormovimento.h
+	"movimentos.h"
+	"stackEstatico.h"
+	"stackDinamico.h"
+	"filaEstatica.h"
+	"filaDinamica.h"
+
+1461189395 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\movimentos.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"movimentos.h"
+
+1461280975 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\stackdinamico.c
+	<stdio.h>
+	<stdlib.h>
+	"stackDinamico.h"
+
+1461189551 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\stackdinamico.h
+	"elemento.h"
+
+1461350684 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\stackestatico.c
+	<stdlib.h>
+	<stdio.h>
+	"stackEstatico.h"
+
+1461071944 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\stackestatico.h
+	"elemento.h"
+
+1461168748 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\elemento.h
+	"movimentos.h"
+
+1461258039 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\gestormovimento.h
+	"movimentos.h"
+	"stackEstatico.h"
+	"stackDinamico.h"
+	"filaEstatica.h"
+	"filaDinamica.h"
+
+1461282957 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\gestormovimento.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"movimentos.h"
+	"stackEstatico.h"
+	"gestorMovimento.h"
+	"filaEstatica.h"
+	"stackDinamico.h"
+	"filaDinamica.h"
+
+1461280973 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\stackdinamicotesouros.c
+	<stdio.h>
+	<stdlib.h>
+	"stackDinamicoTesouros.h"
+
+1461263050 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\stackdinamicotesouros.h
+	"elemento2.h"
+
+1461190893 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\elemento2.h
+	"tesouros.h"
+
+1461322231 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\tesouros.h
+
+1461322221 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\tesouros.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"tesouros.h"
+
+1461350733 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\stackestaticotesouros.c
+	<stdlib.h>
+	<stdio.h>
+	"stackEstaticoTesouros.h"
+
+1461191457 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\stackestaticotesouros.h
+	"elemento2.h"
+
+1461191356 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\filadinamicatesouros.c
+	<stdio.h>
+	<stdlib.h>
+	"filaDinamicaTesouros.h"
+
+1461191322 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\filadinamicatesouros.h
+	"elemento2.h"
+
+1461190969 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\filaestaticatesouros.c
+	<stdlib.h>
+	<stdio.h>
+	"filaEstaticaTesouros.h"
+
+1461190952 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\filaestaticatesouros.h
+	"elemento2.h"
+
+1461266643 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\gestortesouros.h
+	"tesouros.h"
+	"stackEstaticoTesouros.h"
+	"stackDinamicoTesouros.h"
+	"mapa.h"
+
+1461870609 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\gestortesouros.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"tesouros.h"
+	"stackEstaticoTesouros.h"
+	"stackDinamicoTesouros.h"
+	"mapa.h"
+
+1461628811 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\mapa.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"mapa.h"
+
+1461628813 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\mapa.h
+
+1461320034 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\stackdinamicolocalizacao.c
+	<stdio.h>
+	<stdlib.h>
+	"stackDinamicoLocalizacao.h"
+
+1461319805 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\stackdinamicolocalizacao.h
+	"elemento3.h"
+
+1461319559 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\elemento3.h
+	"localizacao.h"
+
+1461350359 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\stackestaticolocalizacao.c
+	<stdlib.h>
+	<stdio.h>
+	"stackEstaticoLocalizacao.h"
+
+1461319676 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\stackestaticolocalizacao.h
+	"elemento3.h"
+
+1461700643 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\jogar.h
+	"stackDinamicoLocalizacao.h"
+	"stackEstaticoLocalizacao.h"
+	"filaDinamica.h"
+	"filaEstatica.h"
+	"stackDinamicoTesouros.h"
+	"stackEstaticoTesouros.h"
+	"mapa.h"
+	"localizacaoAtual.h"
+	"localizacao.h"
+
+1461875433 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\jogar.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"stackDinamicoLocalizacao.h"
+	"stackEstaticoLocalizacao.h"
+	"filaDinamica.h"
+	"filaEstatica.h"
+	"stackDinamicoTesouros.h"
+	"stackEstaticoTesouros.h"
+	"mapa.h"
+	"jogar.h"
+	"movimentos.h"
+	"tesouros.h"
+	"localizacaoAtual.h"
+
+1461625254 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\localizacaoatual.h
+
+1461625254 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\localizacaoatual.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"localizacaoAtual.h"
+
+1461322221 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\gestortesouros.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"tesouros.h"
+	"stackEstaticoTesouros.h"
+	"stackDinamicoTesouros.h"
+	"mapa.h"
+
+1461322231 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\tesouros.h
+
+1461191457 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\stackestaticotesouros.h
+	"elemento2.h"
+
+1461190893 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\elemento2.h
+	"tesouros.h"
+
+1461263050 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\stackdinamicotesouros.h
+	"elemento2.h"
+
+1461628803 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\mapa.h
+
+1461625254 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\localizacaoatual.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"localizacaoAtual.h"
+
+1461625254 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\localizacaoatual.h
+
+1461266643 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\gestortesouros.h
+	"tesouros.h"
+	"stackEstaticoTesouros.h"
+	"stackDinamicoTesouros.h"
+	"mapa.h"
+
+1461700643 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\jogar.h
+	"stackDinamicoLocalizacao.h"
+	"stackEstaticoLocalizacao.h"
+	"filaDinamica.h"
+	"filaEstatica.h"
+	"stackDinamicoTesouros.h"
+	"stackEstaticoTesouros.h"
+	"mapa.h"
+	"localizacaoAtual.h"
+	"localizacao.h"
+
+1461319805 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\stackdinamicolocalizacao.h
+	"elemento3.h"
+
+1461319559 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\elemento3.h
+	"localizacao.h"
+
+1461319676 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\stackestaticolocalizacao.h
+	"elemento3.h"
+
+1461628811 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\mapa.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"mapa.h"
+
+1461320034 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\stackdinamicolocalizacao.c
+	<stdio.h>
+	<stdlib.h>
+	"stackDinamicoLocalizacao.h"
+
+1461280973 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\stackdinamicotesouros.c
+	<stdio.h>
+	<stdlib.h>
+	"stackDinamicoTesouros.h"
+
+1461350359 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\stackestaticolocalizacao.c
+	<stdlib.h>
+	<stdio.h>
+	"stackEstaticoLocalizacao.h"
+
+1461350733 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\stackestaticotesouros.c
+	<stdlib.h>
+	<stdio.h>
+	"stackEstaticoTesouros.h"
+
+1461322221 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\tesouros.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"tesouros.h"
+
+1461837538 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\jogar.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"stackDinamicoLocalizacao.h"
+	"stackEstaticoLocalizacao.h"
+	"filaDinamica.h"
+	"filaEstatica.h"
+	"stackDinamicoTesouros.h"
+	"stackEstaticoTesouros.h"
+	"mapa.h"
+	"jogar.h"
+	"movimentos.h"
+	"tesouros.h"
+	"localizacaoAtual.h"
+
+1461691666 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\gestorlocalizacoes.h
+	"localizacao.h"
+	"stackEstaticoLocalizacao.h"
+	"stackDinamicoLocalizacao.h"
+
+1461691666 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\gestorlocalizacoes.h
+	"localizacao.h"
+	"stackEstaticoLocalizacao.h"
+	"stackDinamicoLocalizacao.h"
+
+1461870219 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\gestorlocalizacoes.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"localizacao.h"
+	"stackEstaticoLocalizacao.h"
+	"stackDinamicoLocalizacao.h"
+	"gestorLocalizacoes.h"
+	"localizacaoAtual.h"
+
+1461701071 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\projeto\gestorlocalizacoes.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"localizacao.h"
+	"stackEstaticoLocalizacao.h"
+	"stackDinamicoLocalizacao.h"
+	"gestorLocalizacoes.h"
+	"localizacaoAtual.h"
+
+1461335909 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\filadinamica.c
+	<stdio.h>
+	<stdlib.h>
+	"filaDinamica.h"
+
+1461184018 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\filadinamica.h
+	"elemento.h"
+
+1461168748 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\elemento.h
+	"movimentos.h"
+
+1461168861 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\movimentos.h
+
+1461184018 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\filaestatica.c
+	<stdlib.h>
+	<stdio.h>
+	"filaEstatica.h"
+
+1461184004 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\filaestatica.h
+	"elemento.h"
+
+1461870219 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\gestorlocalizacoes.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"localizacao.h"
+	"stackEstaticoLocalizacao.h"
+	"stackDinamicoLocalizacao.h"
+	"gestorLocalizacoes.h"
+	"localizacaoAtual.h"
+
+1461348706 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\localizacao.h
+
+1461319676 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\stackestaticolocalizacao.h
+	"elemento3.h"
+
+1461319559 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\elemento3.h
+	"localizacao.h"
+
+1461319805 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\stackdinamicolocalizacao.h
+	"elemento3.h"
+
+1461691666 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\gestorlocalizacoes.h
+	"localizacao.h"
+	"stackEstaticoLocalizacao.h"
+	"stackDinamicoLocalizacao.h"
+
+1461625254 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\localizacaoatual.h
+
+1461870653 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\gestormovimento.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"movimentos.h"
+	"stackEstatico.h"
+	"gestorMovimento.h"
+	"filaEstatica.h"
+	"stackDinamico.h"
+	"filaDinamica.h"
+
+1461189896 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\stackestatico.h
+	"elemento.h"
+
+1461258039 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\gestormovimento.h
+	"movimentos.h"
+	"stackEstatico.h"
+	"stackDinamico.h"
+	"filaEstatica.h"
+	"filaDinamica.h"
+
+1461189551 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\stackdinamico.h
+	"elemento.h"
+
+1461878281 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\gestortesouros.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"tesouros.h"
+	"stackEstaticoTesouros.h"
+	"stackDinamicoTesouros.h"
+	"mapa.h"
+
+1461322231 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\tesouros.h
+
+1461191457 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\stackestaticotesouros.h
+	"elemento2.h"
+
+1461190893 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\elemento2.h
+	"tesouros.h"
+
+1461263050 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\stackdinamicotesouros.h
+	"elemento2.h"
+
+1461628813 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\mapa.h
+
+1461875433 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\jogar.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"stackDinamicoLocalizacao.h"
+	"stackEstaticoLocalizacao.h"
+	"filaDinamica.h"
+	"filaEstatica.h"
+	"stackDinamicoTesouros.h"
+	"stackEstaticoTesouros.h"
+	"mapa.h"
+	"jogar.h"
+	"movimentos.h"
+	"tesouros.h"
+	"localizacaoAtual.h"
+
+1461700643 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\jogar.h
+	"stackDinamicoLocalizacao.h"
+	"stackEstaticoLocalizacao.h"
+	"filaDinamica.h"
+	"filaEstatica.h"
+	"stackDinamicoTesouros.h"
+	"stackEstaticoTesouros.h"
+	"mapa.h"
+	"localizacaoAtual.h"
+	"localizacao.h"
+
+1461348831 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\localizacao.c
+	<stdio.h>
+	<stdlib.h>
+	"localizacao.h"
+
+1461625254 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\localizacaoatual.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"localizacaoAtual.h"
+
+1461870753 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"movimentos.h"
+	"gestorMovimento.h"
+	"tesouros.h"
+	"gestorTesouros.h"
+	"filaDinamica.h"
+	"filaEstatica.h"
+	"stackEstatico.h"
+	"stackDinamico.h"
+	"stackDinamicoTesouros.h"
+	"stackEstaticoTesouros.h"
+	"mapa.h"
+	"jogar.h"
+	"gestorLocalizacoes.h"
+
+1461266643 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\gestortesouros.h
+	"tesouros.h"
+	"stackEstaticoTesouros.h"
+	"stackDinamicoTesouros.h"
+	"mapa.h"
+
+1461628811 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\mapa.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"mapa.h"
+
+1461189395 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\movimentos.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"movimentos.h"
+
+1461280975 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\stackdinamico.c
+	<stdio.h>
+	<stdlib.h>
+	"stackDinamico.h"
+
+1461320034 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\stackdinamicolocalizacao.c
+	<stdio.h>
+	<stdlib.h>
+	"stackDinamicoLocalizacao.h"
+
+1461280973 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\stackdinamicotesouros.c
+	<stdio.h>
+	<stdlib.h>
+	"stackDinamicoTesouros.h"
+
+1461350684 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\stackestatico.c
+	<stdlib.h>
+	<stdio.h>
+	"stackEstatico.h"
+
+1461350359 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\stackestaticolocalizacao.c
+	<stdlib.h>
+	<stdio.h>
+	"stackEstaticoLocalizacao.h"
+
+1461350733 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\stackestaticotesouros.c
+	<stdlib.h>
+	<stdio.h>
+	"stackEstaticoTesouros.h"
+
+1461322221 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\tesouros.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"tesouros.h"
+
+1461335910 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\filadinamica.c
+	<stdio.h>
+	<stdlib.h>
+	"filaDinamica.h"
+
+1461184018 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\filadinamica.h
+	"elemento.h"
+
+1461168748 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\elemento.h
+	"movimentos.h"
+
+1461168862 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\movimentos.h
+
+1461184018 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\filaestatica.c
+	<stdlib.h>
+	<stdio.h>
+	"filaEstatica.h"
+
+1461184004 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\filaestatica.h
+	"elemento.h"
+
+1462211264 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\gestorlocalizacoes.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"localizacao.h"
+	"stackEstaticoLocalizacao.h"
+	"stackDinamicoLocalizacao.h"
+	"gestorLocalizacoes.h"
+	"localizacaoAtual.h"
+
+1461348708 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\localizacao.h
+
+1461319678 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\stackestaticolocalizacao.h
+	"elemento3.h"
+
+1461319560 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\elemento3.h
+	"localizacao.h"
+
+1461319806 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\stackdinamicolocalizacao.h
+	"elemento3.h"
+
+1461691668 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\gestorlocalizacoes.h
+	"localizacao.h"
+	"stackEstaticoLocalizacao.h"
+	"stackDinamicoLocalizacao.h"
+
+1461625256 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\localizacaoatual.h
+
+1461870654 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\gestormovimento.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"movimentos.h"
+	"stackEstatico.h"
+	"gestorMovimento.h"
+	"filaEstatica.h"
+	"stackDinamico.h"
+	"filaDinamica.h"
+
+1461189898 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\stackestatico.h
+	"elemento.h"
+
+1461258040 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\gestormovimento.h
+	"movimentos.h"
+	"stackEstatico.h"
+	"stackDinamico.h"
+	"filaEstatica.h"
+	"filaDinamica.h"
+
+1461189552 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\stackdinamico.h
+	"elemento.h"
+
+1462545910 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\gestortesouros.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"tesouros.h"
+	"stackEstaticoTesouros.h"
+	"stackDinamicoTesouros.h"
+	"mapa.h"
+
+1461322232 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\tesouros.h
+
+1461191458 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\stackestaticotesouros.h
+	"elemento2.h"
+
+1461190894 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\elemento2.h
+	"tesouros.h"
+
+1461263052 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\stackdinamicotesouros.h
+	"elemento2.h"
+
+1461628814 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\mapa.h
+
+1462546240 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\jogar.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"stackDinamicoLocalizacao.h"
+	"stackEstaticoLocalizacao.h"
+	"filaDinamica.h"
+	"filaEstatica.h"
+	"stackDinamicoTesouros.h"
+	"stackEstaticoTesouros.h"
+	"mapa.h"
+	"jogar.h"
+	"movimentos.h"
+	"tesouros.h"
+	"localizacaoAtual.h"
+
+1461700644 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\jogar.h
+	"stackDinamicoLocalizacao.h"
+	"stackEstaticoLocalizacao.h"
+	"filaDinamica.h"
+	"filaEstatica.h"
+	"stackDinamicoTesouros.h"
+	"stackEstaticoTesouros.h"
+	"mapa.h"
+	"localizacaoAtual.h"
+	"localizacao.h"
+
+1461348832 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\localizacao.c
+	<stdio.h>
+	<stdlib.h>
+	"localizacao.h"
+
+1461625256 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\localizacaoatual.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"localizacaoAtual.h"
+
+1461628812 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\mapa.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"mapa.h"
+
+1461189396 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\movimentos.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"movimentos.h"
+
+1461280976 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\stackdinamico.c
+	<stdio.h>
+	<stdlib.h>
+	"stackDinamico.h"
+
+1461320036 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\stackdinamicolocalizacao.c
+	<stdio.h>
+	<stdlib.h>
+	"stackDinamicoLocalizacao.h"
+
+1461280974 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\stackdinamicotesouros.c
+	<stdio.h>
+	<stdlib.h>
+	"stackDinamicoTesouros.h"
+
+1461350686 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\stackestatico.c
+	<stdlib.h>
+	<stdio.h>
+	"stackEstatico.h"
+
+1461350360 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\stackestaticolocalizacao.c
+	<stdlib.h>
+	<stdio.h>
+	"stackEstaticoLocalizacao.h"
+
+1461350734 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\stackestaticotesouros.c
+	<stdlib.h>
+	<stdio.h>
+	"stackEstaticoTesouros.h"
+
+1461322222 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\tesouros.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"tesouros.h"
+
+1462546261 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"movimentos.h"
+	"gestorMovimento.h"
+	"tesouros.h"
+	"gestorTesouros.h"
+	"filaDinamica.h"
+	"filaEstatica.h"
+	"stackEstatico.h"
+	"stackDinamico.h"
+	"stackDinamicoTesouros.h"
+	"stackEstaticoTesouros.h"
+	"mapa.h"
+	"jogar.h"
+	"gestorLocalizacoes.h"
+
+1461266644 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mni-projeto 1\120221006_miguelfurtado_turma09_rossanasantos\gestortesouros.h
+	"tesouros.h"
+	"stackEstaticoTesouros.h"
+	"stackDinamicoTesouros.h"
+	"mapa.h"
+
+1461335910 source:c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\filadinamica.c
+	<stdio.h>
+	<stdlib.h>
+	"filaDinamica.h"
+
+1461184018 c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\filadinamica.h
+	"elemento.h"
+
+1461168748 c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\elemento.h
+	"movimentos.h"
+
+1461168862 c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\movimentos.h
+
+1461184018 source:c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\filaestatica.c
+	<stdlib.h>
+	<stdio.h>
+	"filaEstatica.h"
+
+1461184004 c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\filaestatica.h
+	"elemento.h"
+
+1461870220 source:c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\gestorlocalizacoes.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"localizacao.h"
+	"stackEstaticoLocalizacao.h"
+	"stackDinamicoLocalizacao.h"
+	"gestorLocalizacoes.h"
+	"localizacaoAtual.h"
+
+1461348708 c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\localizacao.h
+
+1461319678 c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\stackestaticolocalizacao.h
+	"elemento3.h"
+
+1461319560 c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\elemento3.h
+	"localizacao.h"
+
+1461319806 c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\stackdinamicolocalizacao.h
+	"elemento3.h"
+
+1461691668 c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\gestorlocalizacoes.h
+	"localizacao.h"
+	"stackEstaticoLocalizacao.h"
+	"stackDinamicoLocalizacao.h"
+
+1461625256 c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\localizacaoatual.h
+
+1461870654 source:c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\gestormovimento.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"movimentos.h"
+	"stackEstatico.h"
+	"gestorMovimento.h"
+	"filaEstatica.h"
+	"stackDinamico.h"
+	"filaDinamica.h"
+
+1461189898 c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\stackestatico.h
+	"elemento.h"
+
+1461258040 c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\gestormovimento.h
+	"movimentos.h"
+	"stackEstatico.h"
+	"stackDinamico.h"
+	"filaEstatica.h"
+	"filaDinamica.h"
+
+1461189552 c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\stackdinamico.h
+	"elemento.h"
+
+1461924359 source:c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\gestortesouros.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"tesouros.h"
+	"stackEstaticoTesouros.h"
+	"stackDinamicoTesouros.h"
+	"mapa.h"
+
+1461322232 c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\tesouros.h
+
+1461191458 c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\stackestaticotesouros.h
+	"elemento2.h"
+
+1461190894 c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\elemento2.h
+	"tesouros.h"
+
+1461263052 c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\stackdinamicotesouros.h
+	"elemento2.h"
+
+1461628814 c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\mapa.h
+
+1461924314 source:c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\jogar.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"stackDinamicoLocalizacao.h"
+	"stackEstaticoLocalizacao.h"
+	"filaDinamica.h"
+	"filaEstatica.h"
+	"stackDinamicoTesouros.h"
+	"stackEstaticoTesouros.h"
+	"mapa.h"
+	"jogar.h"
+	"movimentos.h"
+	"tesouros.h"
+	"localizacaoAtual.h"
+
+1461700644 c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\jogar.h
+	"stackDinamicoLocalizacao.h"
+	"stackEstaticoLocalizacao.h"
+	"filaDinamica.h"
+	"filaEstatica.h"
+	"stackDinamicoTesouros.h"
+	"stackEstaticoTesouros.h"
+	"mapa.h"
+	"localizacaoAtual.h"
+	"localizacao.h"
+
+1461348832 source:c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\localizacao.c
+	<stdio.h>
+	<stdlib.h>
+	"localizacao.h"
+
+1461625256 source:c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\localizacaoatual.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"localizacaoAtual.h"
+
+1461879470 source:c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"movimentos.h"
+	"gestorMovimento.h"
+	"tesouros.h"
+	"gestorTesouros.h"
+	"filaDinamica.h"
+	"filaEstatica.h"
+	"stackEstatico.h"
+	"stackDinamico.h"
+	"stackDinamicoTesouros.h"
+	"stackEstaticoTesouros.h"
+	"mapa.h"
+	"jogar.h"
+	"gestorLocalizacoes.h"
+
+1461266644 c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\gestortesouros.h
+	"tesouros.h"
+	"stackEstaticoTesouros.h"
+	"stackDinamicoTesouros.h"
+	"mapa.h"
+
+1461628812 source:c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\mapa.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"mapa.h"
+
+1461189396 source:c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\movimentos.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"movimentos.h"
+
+1461280976 source:c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\stackdinamico.c
+	<stdio.h>
+	<stdlib.h>
+	"stackDinamico.h"
+
+1461320036 source:c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\stackdinamicolocalizacao.c
+	<stdio.h>
+	<stdlib.h>
+	"stackDinamicoLocalizacao.h"
+
+1461280974 source:c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\stackdinamicotesouros.c
+	<stdio.h>
+	<stdlib.h>
+	"stackDinamicoTesouros.h"
+
+1461350686 source:c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\stackestatico.c
+	<stdlib.h>
+	<stdio.h>
+	"stackEstatico.h"
+
+1461350360 source:c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\stackestaticolocalizacao.c
+	<stdlib.h>
+	<stdio.h>
+	"stackEstaticoLocalizacao.h"
+
+1461350734 source:c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\stackestaticotesouros.c
+	<stdlib.h>
+	<stdio.h>
+	"stackEstaticoTesouros.h"
+
+1461322222 source:c:\users\relense\desktop\120221006_miguelfurtado_turma09_rossanasantos\tesouros.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"tesouros.h"
+
